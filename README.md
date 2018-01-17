@@ -14,7 +14,8 @@ Software to examine
   * version: 5.0.9-eddy-patch
 - [ ] [MRtrix3](http://www.mrtrix.org/)
   * commit: c16a3d0e7593c702b12d050092e21b320d7d294e
-- [ ] [dtistudio](http://dsi-studio.labsolver.org/)
+- [ ] [dsistudio](http://dsi-studio.labsolver.org/)
+  * commit: 49348753795f7e6c731f50c836e7a957861ab8b7
 - [ ] [slicer](https://na-mic.org/w/images/3/3e/UKF-Tractography_TutorialContestWinter2016.pdf)
   * version: Slicer-4.5.0-1
 - [ ] [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/Tracula)
