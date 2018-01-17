@@ -36,7 +36,7 @@ Others tools that we will use
 - Labels
 
 
-# The Process
+# Trust The Process
 We will attempt to use each package to accomplish the following general steps:
 
 1. Preprocessing
