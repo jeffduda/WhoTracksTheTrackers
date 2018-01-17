@@ -25,16 +25,15 @@ Software to examine
 # The Helpers
 Others tools that we will use
 
-- dcm2niix
+- [dcm2niix](https://github.com/rordenlab/dcm2niix)
   * commit: 82b92102c77ce92cfbf3dc297d9201353ce80e66
-- ANTs
+- [ANTs](https://github.com/ANTsX/ANTs)
   * commit:
-- ANTsRCore
+- [ANTsRCore](https://github.com/ANTsX/ANTsRCore)
   * commit:
-- ANTsR
+- [ANTsR](https://github.com/ANTsX/ANTsR)
   * commit:
 - Labels
-
 
 # Trust The Process
 We will attempt to use each package to accomplish the following general steps:
