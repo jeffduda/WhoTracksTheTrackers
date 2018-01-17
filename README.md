@@ -1,5 +1,5 @@
 # WhoTracksTheTrackers
-A survey of fiber tractography software with practical examples. Here we will
+A survey of fiber tractography [1] software with practical examples. Here we will
 attempt to identify a variety of open-source fiber tractography software tools
 and provide examples of how to use these packages on a common dataset. When
 possible, we attempt to provide a full chain of commands that takes the data
