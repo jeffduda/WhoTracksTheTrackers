@@ -9,6 +9,8 @@ from dicom to connectivity matrix.
 Software to examine
 
 - [ ] [Camino](http://camino.cs.ucl.ac.uk/)
+  * git://git.code.sf.net/p/camino/code camino
+  * git checkout af55b0acd7895b7d1dafa040df60c494369b138a .
 - [ ] [FSL](https://fsl.fmrib.ox.ac.uk/fslcourse/lectures/practicals/fdt2/index.html)
 - [ ] [MRtrix3](http://www.mrtrix.org/)
 - [ ] [dtistudio](http://dsi-studio.labsolver.org/)
