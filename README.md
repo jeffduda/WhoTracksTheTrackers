@@ -15,3 +15,7 @@ Software to examine
 - [ ] [slicer](https://na-mic.org/w/images/3/3e/UKF-Tractography_TutorialContestWinter2016.pdf)
 - [ ] [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/Tracula) - TRACULA
 - [ ] [TractoR](http://www.tractor-mri.org.uk/)
+
+
+# References
+[1] Basser, P. J., Pajevic, S., Pierpaoli, C., Duda, J., & Aldroubi, A. (2000). In vivo fiber tractography using DT‐MRI data. Magnetic resonance in medicine, 44(4), 625-632.
