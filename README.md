@@ -9,14 +9,27 @@ from dicom to connectivity matrix.
 Software to examine
 
 - [ ] [Camino](http://camino.cs.ucl.ac.uk/)
-  * git://git.code.sf.net/p/camino/code camino
-  * git checkout af55b0acd7895b7d1dafa040df60c494369b138a .
+  * commit: af55b0acd7895b7d1dafa040df60c494369b138a
 - [ ] [FSL](https://fsl.fmrib.ox.ac.uk/fslcourse/lectures/practicals/fdt2/index.html)
 - [ ] [MRtrix3](http://www.mrtrix.org/)
 - [ ] [dtistudio](http://dsi-studio.labsolver.org/)
 - [ ] [slicer](https://na-mic.org/w/images/3/3e/UKF-Tractography_TutorialContestWinter2016.pdf)
 - [ ] [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/Tracula) - TRACULA
 - [ ] [TractoR](http://www.tractor-mri.org.uk/)
+
+# The Helpers
+Others tools that we will use
+
+- dcm2niix
+  * commit: 82b92102c77ce92cfbf3dc297d9201353ce80e66
+- ANTs
+  * commit:
+- ANTsRCore
+  * commit:
+- ANTsR
+  * commit:
+- Labels
+
 
 # The Process
 We will attempt to use each package to accomplish the following general steps:
