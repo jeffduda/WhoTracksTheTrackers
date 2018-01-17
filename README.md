@@ -16,6 +16,22 @@ Software to examine
 - [ ] [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/Tracula) - TRACULA
 - [ ] [TractoR](http://www.tractor-mri.org.uk/)
 
+# The Process
+We will attempt to use each package to accomplish the following general steps:
+
+1. Preprocessing
+  * Motion correction
+  * Distortion correction
+  * Tensor reconstruction
+  * Scalar metric calculation (mean diffusion, fractional anisotropy, etc)
+2. Whole brain tracking
+  * Deterministic
+  * Probabilistic
+3. Connectivity matrix calculation
+  * Region labeling
+  * Connection counting
+  * Connection metrics (mean FA, etc)
+
 
 # References
 [1] Basser, P. J., Pajevic, S., Pierpaoli, C., Duda, J., & Aldroubi, A. (2000). In vivo fiber tractography using DT‐MRI data. Magnetic resonance in medicine, 44(4), 625-632.
