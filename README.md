@@ -3,7 +3,7 @@ A survey of fiber tractography [1] software with practical examples. Here we wil
 attempt to identify a variety of open-source fiber tractography software tools
 and provide examples of how to use these packages on a common dataset. When
 possible, we attempt to provide a full chain of commands that takes the data
-from dicom to connectivity matrix.
+from nifti to connectivity matrix.
 
 # The Trackers
 Software to examine
@@ -28,12 +28,11 @@ Others tools that we will use
 - [dcm2niix](https://github.com/rordenlab/dcm2niix)
   * commit: 82b92102c77ce92cfbf3dc297d9201353ce80e66
 - [ANTs](https://github.com/ANTsX/ANTs)
-  * commit:
+  * commit: c95e77abe72b0df5679e4728787b87489595517e
 - [ANTsRCore](https://github.com/ANTsX/ANTsRCore)
-  * commit:
+  * commit: b8d5ae3a69135b1c02e26a67fb8718ef574e5ce5
 - [ANTsR](https://github.com/ANTsX/ANTsR)
-  * commit:
-- Labels
+  * commit: 61b66e8a6475ed840f0c86ba1a8678944c16c1ac
 
 # Trust The Process
 We will attempt to use each package to accomplish the following general steps:
